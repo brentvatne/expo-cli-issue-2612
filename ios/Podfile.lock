@@ -8,7 +8,7 @@ PODS:
     - UMCore
   - EXErrorRecovery (1.2.2):
     - UMCore
-  - EXFileSystem (9.0.1):
+  - EXFileSystem (9.1.0):
     - UMCore
     - UMFileSystemInterface
   - EXFont (8.2.2):
@@ -561,7 +561,7 @@ SPEC CHECKSUMS:
   DoubleConversion: 5805e889d232975c086db112ece9ed034df7a0b2
   EXConstants: f907b3b6ce16e20d1750f22af1e095e924574bcb
   EXErrorRecovery: ff58873bf2714fcd5290935d49b74d9fc589d575
-  EXFileSystem: 76875135b61708b9afa7e6a89b72a60ba0fdfa20
+  EXFileSystem: 14d8859c167fba01e36dc704f548b0b58fc4d92e
   EXFont: e583875d5d37a9e272d1cdba7f383bd576952919
   EXImageLoader: 02ca02c9cd5cc8a97b423207a73a791e0a86bea5
   EXKeepAwake: 8b0f68242f036b971f9f8976341823cbe6f50812
